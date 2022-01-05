@@ -7,8 +7,8 @@ Kelompok DeNiAl:
 
 =====================================================================================
 
-File java terdapat pada direktori berikut: 
+File Activity (java) terdapat pada direktori berikut: 
 MyContact-AndroidStudio-SQLite/app/src/main/java/pam/latihan/uas_sqlite/
 
-File xml terdapat pada direktori berikut: 
+File Layout (xml) terdapat pada direktori berikut: 
 MyContact-AndroidStudio-SQLite/app/src/main/res/layout
