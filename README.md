@@ -1,1 +1,0 @@
-# MyContact-AndroidStudio-SQLite
