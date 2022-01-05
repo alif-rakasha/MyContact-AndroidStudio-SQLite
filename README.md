@@ -1,4 +1,4 @@
-#Aplikasi MyContact
+Aplikasi MyContact
 
 Kelompok DeNiAl:
 1. Alif Rakasha Pratama Putra (1197050012) Kelas C
